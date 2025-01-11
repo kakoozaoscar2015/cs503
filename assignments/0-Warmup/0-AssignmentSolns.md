@@ -19,4 +19,4 @@
 - [ ] I really hope and desire to become a decent computer programmer and gain some competency with the c programming language
 
 ### 5. Briefly describe any concerns you might be having with being successful in this class (if any).
-- [ ] I have a question about if we will be using a virtual machine or not in this class. Thank you
+- [ ] I have a question about if we will be using a virtual machine or not in this  class. Thank you
